@@ -1,0 +1,1321 @@
+{
+ "bank": "RecklessSerum2Bank_1",
+ "seed": 1312,
+ "count": 250,
+ "presets": [
+  {
+   "name": "BS - Star Daze",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Sour Stain",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - LoRes Veil",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Grid Drift",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Satin Love",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Tape Hum",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Strobe Halo",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Turbo Current",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Candy Drive",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Cold Signal",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Broken Error",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Hydro Beacon",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Neon Sky",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Sour Scar",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Arcade Crown",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Delta Abyss",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Candy Static",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Muddy Alley",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Cursed Ghost",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Mainframe Abyss",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Gloss Lights",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Concrete Alley",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Chip Ritual",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Grid System",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Sugar Shine",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Tape Wax",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Black Doll",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Bunker Pressure",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Ultra Tears",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Cold Corner",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Witch Mirror",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Grid Probe",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Neon Tears",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Smoke Tunnel",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Void Ghost",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Robot Funk",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Glitter Rain",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Grey Signal",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Black Veil",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Aqua System",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Velour Drive",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "BS - Muddy Signal",
+   "category": "Bass",
+   "style": "Underground"
+  },
+  {
+   "name": "BS - Cathode Teeth",
+   "category": "Bass",
+   "style": "8-Bit"
+  },
+  {
+   "name": "BS - Orbit Beacon",
+   "category": "Bass",
+   "style": "Electro"
+  },
+  {
+   "name": "BS - Silver Bloom",
+   "category": "Bass",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Glitter Kiss",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Fog Stain",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Bleach Gate",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Nitro Sector",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Ultra Dream",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Numb Ritual",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Cathode Mirror",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Vector Unit",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Ultra Burn",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Cold Trap",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Witch Mask",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Turbo Engine",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Silver Daze",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Damp Signal",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Witch Sprite",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Chrome Engine",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Mirror Bloom",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Gutter Floor",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Pixel Mirror",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Trans Wave",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Fever Flash",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Smoke Ash",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Pixel Flood",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Voltage Funk",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Heart Tears",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Gutter Fade",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Cursed Mirror",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Chrome Signal",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Sugar Tears",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Grey Corner",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Strobe Halo",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Vector Rhythm",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Star Shine",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Fog Floor",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Bit Static",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Orbit Pressure",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "LD - Glass Ride",
+   "category": "Lead",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "LD - Gutter Tunnel",
+   "category": "Lead",
+   "style": "Underground"
+  },
+  {
+   "name": "LD - Chip Doll",
+   "category": "Lead",
+   "style": "8-Bit"
+  },
+  {
+   "name": "LD - Hydro Pressure",
+   "category": "Lead",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Velour Rush",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Numb Alley",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Fracture Sprite",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Vector Machine",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Sugar Crush",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Low Wax",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Cursed Siren",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Hydro Wave",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Chrome Burn",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Basement Cough",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Cursed Prayer",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Nitro Drift",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Mirror Sky",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Low Cough",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Fracture Doll",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Voltage Probe",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Ultra Burn",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Hollow Static",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Arcade Spell",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Bunker Current",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Mirror Burn",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Smoke Tunnel",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Cartridge Scream",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Circuit Engine",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Glass Crush",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Smoke Wax",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "KY - Void Crown",
+   "category": "Keys",
+   "style": "8-Bit"
+  },
+  {
+   "name": "KY - Data Beacon",
+   "category": "Keys",
+   "style": "Electro"
+  },
+  {
+   "name": "KY - Neon Lights",
+   "category": "Keys",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "KY - Dirty Hum",
+   "category": "Keys",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Glass Bloom",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Blur Tunnel",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Strobe Tomb",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Bunker Transit",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Satin Pulse",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Numb Room",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Broken Mirror",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Nitro Wave",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Silver Static",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Ghost Tunnel",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Black Veil",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Robot Station",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Gloss Lights",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Dirty Stain",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Arcade Mirror",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Dark Rhythm",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Sugar Rush",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Grey Signal",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Fracture Error",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Voltage Rhythm",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Star Sky",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Tape Wax",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Cathode Mirror",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Bunker Abyss",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Ultra Flash",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Low Corner",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "PD - Pixel Halo",
+   "category": "Pad",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PD - Dark Pressure",
+   "category": "Pad",
+   "style": "Electro"
+  },
+  {
+   "name": "PD - Gloss Crush",
+   "category": "Pad",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PD - Dirty Corner",
+   "category": "Pad",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - Heart Pulse",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ARP - Grain Trap",
+   "category": "Arp",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - LoRes Sprite",
+   "category": "Arp",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ARP - Polar Current",
+   "category": "Arp",
+   "style": "Electro"
+  },
+  {
+   "name": "ARP - Gloss Shine",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ARP - Tape Ward",
+   "category": "Arp",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - Void Ritual",
+   "category": "Arp",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ARP - Bunker Current",
+   "category": "Arp",
+   "style": "Electro"
+  },
+  {
+   "name": "ARP - Mirror Burn",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ARP - Hollow Cough",
+   "category": "Arp",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - Glitch Ritual",
+   "category": "Arp",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ARP - Circuit Current",
+   "category": "Arp",
+   "style": "Electro"
+  },
+  {
+   "name": "ARP - Halo Love",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ARP - Muddy Fade",
+   "category": "Arp",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - Arcade Error",
+   "category": "Arp",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ARP - Hydro Funk",
+   "category": "Arp",
+   "style": "Electro"
+  },
+  {
+   "name": "ARP - Mirror Kiss",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ARP - Fog Hum",
+   "category": "Arp",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - Cartridge Halo",
+   "category": "Arp",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ARP - Chrome Rhythm",
+   "category": "Arp",
+   "style": "Electro"
+  },
+  {
+   "name": "ARP - Star Drive",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ARP - Gutter Ash",
+   "category": "Arp",
+   "style": "Underground"
+  },
+  {
+   "name": "ARP - Witch Candle",
+   "category": "Arp",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ARP - Delta Abyss",
+   "category": "Arp",
+   "style": "Electro"
+  },
+  {
+   "name": "ARP - Satin Sky",
+   "category": "Arp",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Angel Drive",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Basement Ward",
+   "category": "Atmos",
+   "style": "Underground"
+  },
+  {
+   "name": "ATM - Pixel Ghost",
+   "category": "Atmos",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ATM - Robot Pressure",
+   "category": "Atmos",
+   "style": "Electro"
+  },
+  {
+   "name": "ATM - Chrome Love",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Muddy Hood",
+   "category": "Atmos",
+   "style": "Underground"
+  },
+  {
+   "name": "ATM - Chip Ghost",
+   "category": "Atmos",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ATM - Dark Beacon",
+   "category": "Atmos",
+   "style": "Electro"
+  },
+  {
+   "name": "ATM - Laser Burn",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Cold Corner",
+   "category": "Atmos",
+   "style": "Underground"
+  },
+  {
+   "name": "ATM - Arcade Prayer",
+   "category": "Atmos",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ATM - Orbit Drift",
+   "category": "Atmos",
+   "style": "Electro"
+  },
+  {
+   "name": "ATM - Sugar Kiss",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Grey Floor",
+   "category": "Atmos",
+   "style": "Underground"
+  },
+  {
+   "name": "ATM - Void Static",
+   "category": "Atmos",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ATM - Orbit Machine",
+   "category": "Atmos",
+   "style": "Electro"
+  },
+  {
+   "name": "ATM - Angel Burn",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Dirty Fade",
+   "category": "Atmos",
+   "style": "Underground"
+  },
+  {
+   "name": "ATM - Coven Doll",
+   "category": "Atmos",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ATM - Turbo Current",
+   "category": "Atmos",
+   "style": "Electro"
+  },
+  {
+   "name": "ATM - Halo Lights",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "ATM - Hollow Alley",
+   "category": "Atmos",
+   "style": "Underground"
+  },
+  {
+   "name": "ATM - Chip Gate",
+   "category": "Atmos",
+   "style": "8-Bit"
+  },
+  {
+   "name": "ATM - Delta Signal",
+   "category": "Atmos",
+   "style": "Electro"
+  },
+  {
+   "name": "ATM - Candy Burn",
+   "category": "Atmos",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PL - Hyper Love",
+   "category": "Pluck",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PL - Rust Alley",
+   "category": "Pluck",
+   "style": "Underground"
+  },
+  {
+   "name": "PL - Black Mirror",
+   "category": "Pluck",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PL - Hydro Signal",
+   "category": "Pluck",
+   "style": "Electro"
+  },
+  {
+   "name": "PL - Glitter Drive",
+   "category": "Pluck",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PL - Low Cough",
+   "category": "Pluck",
+   "style": "Underground"
+  },
+  {
+   "name": "PL - Void Spell",
+   "category": "Pluck",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PL - Vector Station",
+   "category": "Pluck",
+   "style": "Electro"
+  },
+  {
+   "name": "PL - Heart Dream",
+   "category": "Pluck",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PL - Grey Block",
+   "category": "Pluck",
+   "style": "Underground"
+  },
+  {
+   "name": "PL - Broken Teeth",
+   "category": "Pluck",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PL - Trans Code",
+   "category": "Pluck",
+   "style": "Electro"
+  },
+  {
+   "name": "PL - Angel Crush",
+   "category": "Pluck",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PL - Concrete Scar",
+   "category": "Pluck",
+   "style": "Underground"
+  },
+  {
+   "name": "PL - Void Candle",
+   "category": "Pluck",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PL - Dark Matrix",
+   "category": "Pluck",
+   "style": "Electro"
+  },
+  {
+   "name": "PL - Velour Drive",
+   "category": "Pluck",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "PL - Fog Hum",
+   "category": "Pluck",
+   "style": "Underground"
+  },
+  {
+   "name": "PL - Chip Sprite",
+   "category": "Pluck",
+   "style": "8-Bit"
+  },
+  {
+   "name": "PL - Orbit Current",
+   "category": "Pluck",
+   "style": "Electro"
+  },
+  {
+   "name": "SY - Halo Crush",
+   "category": "Synth & Stab",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "SY - Basement Room",
+   "category": "Synth & Stab",
+   "style": "Underground"
+  },
+  {
+   "name": "SY - Shard Static",
+   "category": "Synth & Stab",
+   "style": "8-Bit"
+  },
+  {
+   "name": "SY - Trans Unit",
+   "category": "Synth & Stab",
+   "style": "Electro"
+  },
+  {
+   "name": "SY - Halo Kiss",
+   "category": "Synth & Stab",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "SY - Bruise Static",
+   "category": "Synth & Stab",
+   "style": "Underground"
+  },
+  {
+   "name": "SY - Witch Tomb",
+   "category": "Synth & Stab",
+   "style": "8-Bit"
+  },
+  {
+   "name": "SY - Trans Pressure",
+   "category": "Synth & Stab",
+   "style": "Electro"
+  },
+  {
+   "name": "SY - Prism Static",
+   "category": "Synth & Stab",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "SY - Muddy Ritual",
+   "category": "Synth & Stab",
+   "style": "Underground"
+  },
+  {
+   "name": "SY - Ruin Teeth",
+   "category": "Synth & Stab",
+   "style": "8-Bit"
+  },
+  {
+   "name": "SY - Circuit Drift",
+   "category": "Synth & Stab",
+   "style": "Electro"
+  },
+  {
+   "name": "SY - Velour Rain",
+   "category": "Synth & Stab",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "SY - Muddy Hood",
+   "category": "Synth & Stab",
+   "style": "Underground"
+  },
+  {
+   "name": "SY - Shard Siren",
+   "category": "Synth & Stab",
+   "style": "8-Bit"
+  },
+  {
+   "name": "808 - Heart Shine",
+   "category": "808 & Sub",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "808 - Fog Scar",
+   "category": "808 & Sub",
+   "style": "Underground"
+  },
+  {
+   "name": "808 - Cartridge Spell",
+   "category": "808 & Sub",
+   "style": "8-Bit"
+  },
+  {
+   "name": "808 - Delta Abyss",
+   "category": "808 & Sub",
+   "style": "Electro"
+  },
+  {
+   "name": "808 - Fever Wings",
+   "category": "808 & Sub",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "808 - Low Wax",
+   "category": "808 & Sub",
+   "style": "Underground"
+  },
+  {
+   "name": "808 - Hex Ritual",
+   "category": "808 & Sub",
+   "style": "8-Bit"
+  },
+  {
+   "name": "808 - Grid Probe",
+   "category": "808 & Sub",
+   "style": "Electro"
+  },
+  {
+   "name": "808 - Glass Flash",
+   "category": "808 & Sub",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "808 - Tape Trap",
+   "category": "808 & Sub",
+   "style": "Underground"
+  },
+  {
+   "name": "FX - Satin Ride",
+   "category": "FX",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "FX - Tape Wax",
+   "category": "FX",
+   "style": "Underground"
+  },
+  {
+   "name": "FX - Witch Gate",
+   "category": "FX",
+   "style": "8-Bit"
+  },
+  {
+   "name": "FX - Vector Drift",
+   "category": "FX",
+   "style": "Electro"
+  },
+  {
+   "name": "FX - Angel Shine",
+   "category": "FX",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "FX - Bruise Static",
+   "category": "FX",
+   "style": "Underground"
+  },
+  {
+   "name": "FX - Glitch Sprite",
+   "category": "FX",
+   "style": "8-Bit"
+  },
+  {
+   "name": "FX - Orbit Funk",
+   "category": "FX",
+   "style": "Electro"
+  },
+  {
+   "name": "FX - Ultra Dream",
+   "category": "FX",
+   "style": "Hyperpop"
+  },
+  {
+   "name": "FX - Concrete Drip",
+   "category": "FX",
+   "style": "Underground"
+  }
+ ],
+ "factory_tables": [
+  "Analog/Acid.wav",
+  "Analog/MATRIXY C64.wav",
+  "Analog/PWM C64.wav",
+  "Analog/PWM Juno.wav",
+  "Digital/CrushWub.wav",
+  "Digital/Dist 8bit Fwap.wav",
+  "Digital/Dull_toy.wav",
+  "Digital/Evol Longreece.wav",
+  "Digital/FFT_SQUEAL.wav",
+  "Digital/FMFM.wav",
+  "Digital/Hypa.wav",
+  "Digital/Mario.wav",
+  "S2 Tables/Analog/808 Harms.wav",
+  "S2 Tables/Analog/AT Juno 106.wav",
+  "S2 Tables/Analog/Mello.wav",
+  "S2 Tables/Analog/Perfect 808 Sub Shapes.wav",
+  "S2 Tables/Analog/PolySaw II.wav",
+  "S2 Tables/Analog/Saw Drift 303.wav",
+  "S2 Tables/Analog/Saw Drift.wav",
+  "S2 Tables/Analog/Saw Phasey.wav",
+  "S2 Tables/Analog/Saw to Square.wav",
+  "S2 Tables/Analog/Solina Viola.wav",
+  "S2 Tables/Analog/Subby Roller.wav",
+  "S2 Tables/Analog/SynStringSaw.wav",
+  "S2 Tables/Analog/Triangle Sub Morph.wav",
+  "S2 Tables/Analog/Warm Sub.wav",
+  "S2 Tables/Analog/Yet Another Saw.wav",
+  "S2 Tables/Default Shapes.wav",
+  "S2 Tables/Digital/Basic OPL.wav",
+  "S2 Tables/Digital/Bitspeek 2 Seperate.wav",
+  "S2 Tables/Digital/Braids Bell Pluck.wav",
+  "S2 Tables/Digital/Chord.wav",
+  "S2 Tables/Digital/DX Hard Attack.wav",
+  "S2 Tables/Digital/Dying Saw.wav",
+  "S2 Tables/Digital/Dying Sine.wav",
+  "S2 Tables/Digital/Dying Square.wav",
+  "S2 Tables/Digital/FM Dangerous Saw.wav",
+  "S2 Tables/Digital/FM Dirty Square.wav",
+  "S2 Tables/Digital/FM Piano.wav",
+  "S2 Tables/Digital/Generative Waves.wav",
+  "S2 Tables/Digital/Harmonic Series Smooth.wav",
+  "S2 Tables/Digital/Harsh Harm.wav",
+  "S2 Tables/Digital/HyperSqueak.wav",
+  "S2 Tables/Digital/Memory Organ.wav",
+  "S2 Tables/Digital/RMrK1 Tine.wav",
+  "S2 Tables/Digital/Rich Pluck.wav",
+  "S2 Tables/Digital/Shep. Octaves.wav",
+  "S2 Tables/Digital/Softest Growl.wav",
+  "S2 Tables/Digital/Talking Vox.wav",
+  "S2 Tables/Digital/Vocal Hum.wav",
+  "S2 Tables/Digital/Xylo Pluck.wav"
+ ],
+ "factory_noises": [
+  "Analog/ARP pink.wav",
+  "Analog/ARP white.wav",
+  "Analog/J106.wav",
+  "Organics/AC hum1.wav",
+  "Organics/Air Can 1.wav",
+  "Organics/H-Breath.wav",
+  "SOR/Analog Flow.wav",
+  "SOR/Atmos 05.wav",
+  "SOR/Atmos 18.wav"
+ ]
+}
